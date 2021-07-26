@@ -1,0 +1,19 @@
+name: methodchannel
+description: A Flutter method channel sample
+version: 1.0.0
+
+environment:
+  sdk: '2.13.4'
+  flutter: '2.2.3'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: '1.0.3'
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
