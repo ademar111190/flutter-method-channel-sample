@@ -10,13 +10,13 @@ A sample of how to use method channels
 
 ![Web](web.png)
 
-## Android
+## Mobile
 
-![Android](android.png)
+|Android|iOS|
+|---|---|
+|![Android](android.png)|![iOS](ios.png)|
 
-## iOS
 
-![iOS](ios.png)
 
 ## Linux
 
